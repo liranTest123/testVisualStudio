@@ -3,6 +3,6 @@
         Console.WriteLine("see you")
         Console.ReadLine()
 
-        dfdfdf()
+
     End Sub
 End Module
