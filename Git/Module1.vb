@@ -5,6 +5,8 @@
         Console.WriteLine("what's up??")
         dsddd()
         גכגכ()
+        רקרקר()
+        ddd()
         Console.ReadLine()
     End Sub
 
