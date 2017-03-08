@@ -3,7 +3,7 @@
     Sub Main()
         Console.WriteLine("Hello world")
         Console.WriteLine("what's up??")
-   
+        Console.WriteLine("WHAT??")
         Console.ReadLine()
     End Sub
 
