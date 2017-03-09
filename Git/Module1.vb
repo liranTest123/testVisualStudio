@@ -1,9 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Hello world")
-        Console.WriteLine("what's up??")
-        גכגכ()
+        Console.WriteLine("master")
         Console.ReadLine()
     End Sub
 
