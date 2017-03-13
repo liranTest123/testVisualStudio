@@ -1,7 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("master")
+        Console.WriteLine("develop")
+        Console.WriteLine("develop2")
         Console.ReadLine()
     End Sub
 
